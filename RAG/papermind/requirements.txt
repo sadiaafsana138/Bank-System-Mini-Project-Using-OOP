@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+sentence-transformers==2.7.0
+numpy==1.26.4
+groq
+python-dotenv
+torch==2.3.1
